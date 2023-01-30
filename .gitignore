@@ -1,0 +1,9 @@
+#Folders
+/data/*
+
+#File types
+*.ipynb_checkpoints
+*.DS_Store
+
+#Temporary files
+*~
