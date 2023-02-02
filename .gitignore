@@ -1,5 +1,6 @@
 #Folders
 /data/*
+/checkpoints/*
 
 #File types
 *.ipynb_checkpoints
