@@ -12,7 +12,7 @@ conda activate dsa4266
 **Step 2.** Install the required packages
 
 ```
-pip install tensorflow pandas numpy scikit-learn gdown
+pip install tensorflow pandas numpy scikit-learn gdown matplotlib
 ```
 
 **Step 3.** Clone the directory
